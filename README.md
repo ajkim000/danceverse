@@ -1,4 +1,4 @@
-# DanceVerse Prototype
+# DanceVerse
 _Alison Kim, Richard Guo_
 
 DanceVerse is an interactive tool that maps choreography video datasets based on stylistic and movement qualities. The pipeline turns dance clips into text descriptions, creates per-interval movement labels, and converts them into embeddings for clustering and visualization. 
